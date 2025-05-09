@@ -1,2 +1,1 @@
-# PyChat
-PyChat
+Hello this is an chat platform for everyone! This platform made with Python 3.11 you cant use this platform without Python 3.11 please download Python to use this! And also this chat platform uses Servers! If i select you for admin you can use PyChat's Server Edition!
